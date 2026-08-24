@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         豆包聊天补全思考模式菜单proMax
+// @name         豆包聊天补全思考模式菜单ProMax
 // @namespace    http://tampermonkey.net/
 // @version      3.0
 // @description  修复了一些bug
